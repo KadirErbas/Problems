@@ -1,0 +1,8 @@
+C:\VisualStudioProjeleri\Asal_Sayilari_Yazdir\Asal_Sayilari_Yazdir\bin\Debug\Asal_Sayilari_Yazdir.exe.config
+C:\VisualStudioProjeleri\Asal_Sayilari_Yazdir\Asal_Sayilari_Yazdir\bin\Debug\Asal_Sayilari_Yazdir.exe
+C:\VisualStudioProjeleri\Asal_Sayilari_Yazdir\Asal_Sayilari_Yazdir\bin\Debug\Asal_Sayilari_Yazdir.pdb
+C:\VisualStudioProjeleri\Asal_Sayilari_Yazdir\Asal_Sayilari_Yazdir\obj\Debug\Asal_Sayilari_Yazdir.csproj.AssemblyReference.cache
+C:\VisualStudioProjeleri\Asal_Sayilari_Yazdir\Asal_Sayilari_Yazdir\obj\Debug\Asal_Sayilari_Yazdir.csproj.SuggestedBindingRedirects.cache
+C:\VisualStudioProjeleri\Asal_Sayilari_Yazdir\Asal_Sayilari_Yazdir\obj\Debug\Asal_Sayilari_Yazdir.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjeleri\Asal_Sayilari_Yazdir\Asal_Sayilari_Yazdir\obj\Debug\Asal_Sayilari_Yazdir.exe
+C:\VisualStudioProjeleri\Asal_Sayilari_Yazdir\Asal_Sayilari_Yazdir\obj\Debug\Asal_Sayilari_Yazdir.pdb
