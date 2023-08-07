@@ -29,6 +29,6 @@ for i in range(len(hours)):
     amounts.append(amount)
 
 for i in range(len(hours)):
-    print("%s %9.1f %11.1f $" % (i+1, hours[i], amounts[i]))
+    print("%s %9.1f %11.2f $" % (i+1, hours[i], amounts[i]))
 
-print("TOPLAM %4.1f %11.1f $" % (total_hours, total_amount))
+print("TOPLAM %4.1f %11.2f $" % (total_hours, total_amount))
